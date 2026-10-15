@@ -1,0 +1,6 @@
+{
+  "name": "Soch Wale",
+  "description": "Official Soch Wale educational and digital publishing platform. Explore articles, video lectures, free & paid PDF books with manual JazzCash verification and complete admin CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
